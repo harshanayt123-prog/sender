@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+*.session
+*.session-journal
+.venv/
+__pycache__/
+*.pyc
+.vercel/
+.DS_Store
